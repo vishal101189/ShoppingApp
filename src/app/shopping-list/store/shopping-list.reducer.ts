@@ -14,6 +14,8 @@ export function shoppingListReducer(state = initialState, action: ShoppingListAc
                 ...state,   //... is used to copy the initialState state
                 ingredients: [...state.ingredients, action.payload]
             };
+        default:
+            return state;
     }
 
 }
