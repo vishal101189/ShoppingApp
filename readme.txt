@@ -29,4 +29,8 @@ Usefule Links: https://academind.com/learn/our-courses
 
 NGRX:
 -To install ngrx> npm install --save @ngrx/store
+-To install ngrx effects> npm install @ngrx/effects --save
+-TO install redux dev tools extension>https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+and then install in project>npm install -dev @ngrx/store-devtools --save
+and to install router store> npm install @ngrx/router-store --save
  
