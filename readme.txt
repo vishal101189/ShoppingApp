@@ -33,4 +33,7 @@ NGRX:
 -TO install redux dev tools extension>https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 and then install in project>npm install -dev @ngrx/store-devtools --save
 and to install router store> npm install @ngrx/router-store --save
+-Advance features of ngrx plz refer this site- https://ngrx.io/
+For Advance Features and Eg>https://github.com/ngrx/platform/tree/master/projects/example-app/src/app
+-https://ngrx.io/docs
  
